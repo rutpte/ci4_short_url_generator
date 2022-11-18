@@ -3,5 +3,5 @@
 class Config
 {
     //--> folder project name.
-    public $PROJ_NAME = "ci4_basic";
+    public $PROJ_NAME = "ci4_short_url_generator"; 
 }
