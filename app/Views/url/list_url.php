@@ -89,7 +89,7 @@
                 <p>amount click : <em><?= $item['num_click']?></em> </p>
                 <p>delete : <a class="del" href=<?=ROOT_PROJ."/del_url/". $item['id']?>>delete data.</a> </p>
                 
-                <img src="<?=ROOT_PROJ.'/'.$item['qrc_path']?>" />
+                <img style="margin: 5px;"src="<?=ROOT_PROJ.'/'.$item['qrc_path']?>" />
                 </br>
                <a class="btn" href="<?=$item['short_url'] ?>">View details &raquo;</a>
               <hr/>
