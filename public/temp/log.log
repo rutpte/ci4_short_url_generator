@@ -134,3 +134,4 @@
 18-11-2022 03:06:53 , ip :::1 ,event : delete url id : 191 , computer_name : DESKTOP-8N8QD4F , browser : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 18-11-2022 03:15:27 , ip :::1 ,event : add url : http://localhost/ci4_short_url_generator/public/193 , computer_name : DESKTOP-8N8QD4F , browser : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 18-11-2022 03:15:38 , ip :::1 ,event : delete url id : 192 , computer_name : DESKTOP-8N8QD4F , browser : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+18-11-2022 03:34:29 , ip :::1 ,event : add url : http://localhost/ci4_short_url_generator/public/194 , computer_name : DESKTOP-8N8QD4F , browser : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36

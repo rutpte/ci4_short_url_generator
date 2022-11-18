@@ -17,11 +17,11 @@
 
       <style type="text/css">
       body {
-        padding-top: 30px;
+        padding-top: 60px;
         padding-bottom: 40px;
         -webkit-text-size-adjust: none;
-        margin-top: 0;
-        padding: 0;
+        margin-top: 90;
+        padding: 90;
         font-family: Verdana, system-ui, Helvetica, sans-serif;
         line-height: 1.8em;
         color: #fff;
@@ -83,11 +83,11 @@
        ?>
             <div class="span12 detail">
                 <h2>Id : <?= $item['id']?></h2>
-                <p>full url : <em><?= $item['ori_url']?></em> </p>
+                <p>Full url : <em><?= $item['ori_url']?></em> </p>
                 <!-- <p>short url : <a disabled="disabled" class="link_to" href=<?//= $item['short_url']?>><?//= $item['short_url']?></a> </p> -->
-                <p>short url : <a class="link_to"><?= $item['short_url']?></a> </p>
-                <p>amount click : <em><?= $item['num_click']?></em> </p>
-                <p>delete : <a class="del" href=<?=ROOT_PROJ."/del_url/". $item['id']?>>delete data.</a> </p>
+                <p>Short url : <a class="link_to"><?= $item['short_url']?></a> </p>
+                <p>Amount click : <em><?= $item['num_click']?></em> </p>
+                <p>Delete : <a class="del" href=<?=ROOT_PROJ."/del_url/". $item['id']?>>delete data.</a> </p>
                 
                 <img style="margin-bottom: 5px;"src="<?=ROOT_PROJ.'/'.$item['qrc_path']?>" />
                 </br>
