@@ -29,7 +29,9 @@ This repository holds the distributable version of the framework. It has been bu
 
 
 # create database.
+
 *run this sql code to mysql*
+```ci4 is database name```
 ```
 CREATE TABLE `url` (
   `id` int(10) NOT NULL,
