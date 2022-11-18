@@ -27,7 +27,7 @@
         color: #fff;
         text-align: left;
         min-width: 760px;
-        background-color: #98a7b7;
+        background-color: #4a525a;
       }
 
     </style>
