@@ -21,8 +21,27 @@ PHP version 7.4 or higher is required
 
 ## database
 
-dabase use a mysql
+***mysql***
+
+**sql for create data base**
+
+*CREATE TABLE `url` (
+  `id` int(10) NOT NULL,
+  `ori_url` varchar(128) NOT NULL,
+  `short_url` varchar(255) NOT NULL,
+  `qrc_path` varchar(255) DEFAULT NULL,
+  `num_click` int(10) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+ALTER TABLE `url`
+ADD PRIMARY KEY (`id`);
+ALTER TABLE `url`
+MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;*
 
 
+## DFD 0.
+![image](https://user-images.githubusercontent.com/3283729/202655679-ac9bf7cf-e83b-472a-956f-be01765dc0f3.png)
+
+## flow chat.
+![image](https://user-images.githubusercontent.com/3283729/202655837-9375b2e7-08fa-4bd5-a784-bcf115829464.png)
 
 
