@@ -91,7 +91,7 @@
                 
                 <img src="<?=ROOT_PROJ.'/'.$item['qrc_path']?>" />
                 </br>
-               <p><a class="btn" href="<?=$item['short_url'] ?>">View details &raquo;</a></p> 
+               <a class="btn" href="<?=$item['short_url'] ?>">View details &raquo;</a>
               <hr/>
             </div><!--/span-->
 
