@@ -52,6 +52,12 @@ MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 ![image](https://user-images.githubusercontent.com/3283729/202666553-e997adfa-c76b-4ae7-ac4a-66716dccf440.png)
 
+# test to use app.
+**go to browser**
+```
+http://localhost/ci4_short_url_generator/public/add_url
+```
+
 
 
 
