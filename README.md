@@ -15,12 +15,12 @@ This repository holds the distributable version of the framework. It has been bu
 ![image](https://user-images.githubusercontent.com/3283729/202655837-9375b2e7-08fa-4bd5-a784-bcf115829464.png)
 
 ## How to install.
-# Requirements
+***Requirements***
 
 * PHP version 7.4 or higher is required
 
 
-# 1 install server.
+#  install server.
 *this giude use Xampp*
 
 * install Xampp.
@@ -46,55 +46,6 @@ ALTER TABLE `url`
 MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 ```
-
-
-# Compilation
-
-The code can be compiled with the provided makefile using the standard `make`
-command.
-
-If compiling the code manually, or integrating into a larger program, include
-the following flags:
-
-```
-FLAGS=-std=c++17 -fsanitize=address -fuse-ld=gold -Wall -MMD \
-      -fext-numeric-literals -lquadmath #-O3
-```
-
-Note that flag `-fuse-ld=gold` is only required on certain Ubuntu systems due
-to a know bug with g++ 5.x.
-
-
-# Sample Execution & Output
-
-If run without command line arguments, using
-
-```
-./precisionEstimate
-```
-
-the following usage message will be displayed.
-
-```
-Usage: ./precisionEstimate numExecs
-```
-
-If run using 
-
-```
-./precisionEstimate 100000000
-```
-
-output *simliar* to
-
-```
-   0 secs | 1.19209e-07
-   1 secs | 2.22045e-16
-  17 secs | 1.92593e-34
-```
-
-will  be displayed. Note that the precision estimates will vary by
-architecture/system.
 
 
 
