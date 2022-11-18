@@ -8,36 +8,6 @@ This repository holds the distributable version of the framework. It has been bu
 [development repository](https://github.com/rutpte/ci4_short_url_generator.git).
 
 
-## Important Change config
-
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-
-
-## Server Requirements
-
-PHP version 7.4 or higher is required
-
-## database
-
-***mysql***
-
-**sql for create data base**
-
-*CREATE TABLE `url` (
-  `id` int(10) NOT NULL,
-  `ori_url` varchar(128) NOT NULL,
-  `short_url` varchar(255) NOT NULL,
-  `qrc_path` varchar(255) DEFAULT NULL,
-  `num_click` int(10) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-ALTER TABLE `url`
-ADD PRIMARY KEY (`id`);
-ALTER TABLE `url`
-MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;*
-
-
 ## DFD 0.
 ![image](https://user-images.githubusercontent.com/3283729/202655679-ac9bf7cf-e83b-472a-956f-be01765dc0f3.png)
 
@@ -47,30 +17,35 @@ MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;*
 ## How to install.
 # Requirements
 
-  * g++ v5.4 or newer
-  * Boost 1.58.0 or newer
-    * The `boost/multiprecision/float128.hpp` header must be available
-  * Make
+* PHP version 7.4 or higher is required
 
-## Installed Boost Packages
 
-For development the following boost packages were installed.
+# 1 install server.
+*this giude use Xampp*
+
+* install Xampp.
+* go to ```xampp\htdocs```folder.
+* and pull git file.
+
+
+# create database.
+*run this sql code*
+```
+CREATE TABLE `url` (
+  `id` int(10) NOT NULL,
+  `ori_url` varchar(128) NOT NULL,
+  `short_url` varchar(255) NOT NULL,
+  `qrc_path` varchar(255) DEFAULT NULL,
+  `num_click` int(10) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+-------------------------------------
+ALTER TABLE `url`
+ADD PRIMARY KEY (`id`);
+------------------------------------- 
+ALTER TABLE `url`
+MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 ```
-libboost-date-time1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed]
-libboost-filesystem1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed]
-libboost-iostreams1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed]
-libboost-python1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed,automatic]
-libboost-regex1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed,automatic]
-libboost-system1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed]
-libboost-test-dev/xenial,now 1.58.0.1ubuntu1 amd64 [installed]
-libboost-test1.58-dev/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed,automatic]
-libboost-test1.58.0/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed,automatic]
-libboost1.58-dev/xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 amd64 [installed,automatic]
-libboost1.58-doc/xenial-updates,xenial-updates,now 1.58.0+dfsg-5ubuntu3.1 all [installed]
-```
-
-This listing was obtained by running `apt list --installed | grep boost`.
 
 
 # Compilation
