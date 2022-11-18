@@ -20,6 +20,12 @@ This repository holds the distributable version of the framework. It has been bu
 * PHP version 7.4 or higher is required, with the following extensions installed:
 *  [intl](http://php.net/manual/en/intl.requirements.php)
 
+```
+go to uncomment extension "intl" in php.ini 
+```
+![image](https://user-images.githubusercontent.com/3283729/202761442-d308de28-c63b-4530-b56f-adc03b92b951.png)
+![image](https://user-images.githubusercontent.com/3283729/202761553-5e60bd39-64cb-41f9-92c3-5336c9feaaf3.png)
+![image](https://user-images.githubusercontent.com/3283729/202761821-4766829d-855c-4f9b-a378-1fd3c24b96f6.png)
 
 #  install server.
 *this giude use Xampp*
