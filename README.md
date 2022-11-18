@@ -23,7 +23,7 @@ This repository holds the distributable version of the framework. It has been bu
 #  install server.
 *this giude use Xampp*
 
-* install Xampp.
+* install Xampp.[download here](https://www.apachefriends.org/download.html)
 * go to ```xampp\htdocs```folder.
 * and pull git file.
 
