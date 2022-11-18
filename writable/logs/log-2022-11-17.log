@@ -1,0 +1,413 @@
+CRITICAL - 2022-11-17 03:14:59 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:15:05 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:15:52 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:15:54 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:17 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:18 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:19 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:20 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:20 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:20 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:20 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:28 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(200): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:53 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(138): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:16:58 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(138): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:17:18 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(138): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:22:36 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 03:22:37 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 03:26:02 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:37 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:38 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:38 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:41 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:41 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:26:41 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('templates/header')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:27:55 --> include(./config.php): failed to open stream: No such file or directory
+in APPPATH\Views\url\main_url.php on line 1.
+ 1 APPPATH\Views\url\main_url.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\url\\main_url.php', 1, [])
+ 2 APPPATH\Views\url\main_url.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\url\\main_url.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('url/main_url')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:27:56 --> include(./config.php): failed to open stream: No such file or directory
+in APPPATH\Views\url\main_url.php on line 1.
+ 1 APPPATH\Views\url\main_url.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\url\\main_url.php', 1, [])
+ 2 APPPATH\Views\url\main_url.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\url\\main_url.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url', [], true)
+ 6 APPPATH\Controllers\Url.php(141): view('url/main_url')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:28:34 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(203): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 03:28:42 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\templates\header.php on line 1.
+ 1 APPPATH\Views\templates\header.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\templates\\header.php', 1, [...])
+ 2 APPPATH\Views\templates\header.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\templates\\header.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('templates/header', [], true)
+ 6 APPPATH\Controllers\Url.php(203): view('templates/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 22:11:37 --> include(../config.php): failed to open stream: No such file or directory
+in APPPATH\Views\url\list_url.php on line 1.
+ 1 APPPATH\Views\url\list_url.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\url\\list_url.php', 1, [...])
+ 2 APPPATH\Views\url\list_url.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\url\\list_url.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/list_url', [], true)
+ 6 APPPATH\Controllers\Url.php(208): view('url/list_url', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_list_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 22:19:10 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\url\main_url.php on line 1.
+ 1 APPPATH\Views\url\main_url.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\url\\main_url.php', 1, [])
+ 2 APPPATH\Views\url\main_url.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\url\\main_url.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url', [], true)
+ 6 APPPATH\Controllers\Url.php(145): view('url/main_url')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 22:20:00 --> include(config.php): failed to open stream: No such file or directory
+in APPPATH\Views\url\success_del.php on line 1.
+ 1 APPPATH\Views\url\success_del.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(config.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\url\\success_del.php', 1, [])
+ 2 APPPATH\Views\url\success_del.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\url\\success_del.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/success_del', [], true)
+ 6 APPPATH\Controllers\Url.php(172): view('url/success_del')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('177')
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 22:49:13 --> Constant expression contains invalid operations
+in APPPATH\Libraries\config.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 22:58:44 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 22:59:24 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 22:59:25 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 22:59:26 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 22:59:26 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:00:21 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:00:27 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or ','
+in APPPATH\Controllers\Url.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Url.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Url')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Url')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Url')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Url', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 23:00:28 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or ','
+in APPPATH\Controllers\Url.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Url.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Url')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Url')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Url')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Url', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-17 23:00:38 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:00:56 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:00:57 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:00:57 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:01:01 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-17 23:02:36 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Url.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

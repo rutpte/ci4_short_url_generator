@@ -1,0 +1,985 @@
+CRITICAL - 2022-11-16 00:45:37 --> Class 'App\Libraries\qrcode\QRimage' not found
+in APPPATH\Libraries\qrcode.php on line 79.
+ 1 APPPATH\Controllers\Url.php(126): App\Libraries\qrcode->generate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:47:29 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:47:31 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:47:33 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:47:53 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:47:53 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:41 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:42 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:42 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:42 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:42 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:42 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:48:43 --> Class 'App\Libraries\qrcode' not found
+in APPPATH\Controllers\Url.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:56:43 --> Access to undeclared static property: App\Libraries\qrcode\QRimage::$black
+in APPPATH\Libraries\qrcode.php on line 79.
+ 1 APPPATH\Controllers\Url.php(126): App\Libraries\qrcode->generate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 00:56:47 --> Access to undeclared static property: App\Libraries\qrcode\QRimage::$black
+in APPPATH\Libraries\qrcode.php on line 79.
+ 1 APPPATH\Controllers\Url.php(126): App\Libraries\qrcode->generate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 01:05:48 --> include(qrlib.php): failed to open stream: No such file or directory
+in APPPATH\Controllers\Url.php on line 140.
+ 1 APPPATH\Controllers\Url.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(qrlib.php): failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Url.php', 140, [...])
+ 2 APPPATH\Controllers\Url.php(140): include()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 01:05:50 --> include(qrlib.php): failed to open stream: No such file or directory
+in APPPATH\Controllers\Url.php on line 140.
+ 1 APPPATH\Controllers\Url.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(qrlib.php): failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Url.php', 140, [...])
+ 2 APPPATH\Controllers\Url.php(140): include()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 01:06:05 --> Call to undefined method App\Libraries\qrcode::png()
+in APPPATH\Controllers\Url.php on line 174.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 01:31:05 --> Call to undefined method App\Libraries\qrcode::png()
+in APPPATH\Controllers\Url.php on line 174.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 01:31:07 --> Call to undefined method App\Libraries\qrcode::png()
+in APPPATH\Controllers\Url.php on line 174.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:18:48 --> Call to undefined method App\Libraries\qrcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:19:55 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:24:33 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:24:35 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:24:35 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:24:37 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:25:11 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:29:18 --> include(qrlib.php): failed to open stream: No such file or directory
+in APPPATH\Controllers\Url.php on line 130.
+ 1 APPPATH\Controllers\Url.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(qrlib.php): failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Url.php', 130, [])
+ 2 APPPATH\Controllers\Url.php(130): include()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:33:05 --> include(qrlib.php): failed to open stream: No such file or directory
+in APPPATH\Controllers\Url.php on line 130.
+ 1 APPPATH\Controllers\Url.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(qrlib.php): failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Url.php', 130, [])
+ 2 APPPATH\Controllers\Url.php(130): include()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:33:07 --> include(qrlib.php): failed to open stream: No such file or directory
+in APPPATH\Controllers\Url.php on line 130.
+ 1 APPPATH\Controllers\Url.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(qrlib.php): failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Url.php', 130, [])
+ 2 APPPATH\Controllers\Url.php(130): include()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:33:20 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:33:22 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:33:22 --> Call to undefined method App\Libraries\QRcode::png()
+in APPPATH\Controllers\Url.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:44:29 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('PHP QR Code :)', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('PHP QR Code :)')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('PHP QR Code :)', 'APPPATH\\Libraries\\temp\\test.png', false)
+ 9 APPPATH\Libraries\qrcode.php(72): App\Libraries\qrcode\QRcode::png('PHP QR Code :)', 'APPPATH\\Libraries\\temp\\test.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:49:04 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('PHP QR Code :)', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('PHP QR Code :)')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('PHP QR Code :)', 'APPPATH\\Libraries\\temp\\test.png', false)
+ 9 APPPATH\Libraries\qrcode.php(72): App\Libraries\qrcode\QRcode::png('PHP QR Code :)', 'APPPATH\\Libraries\\temp\\test.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:49:09 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(65): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:49:28 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(65): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 02:53:03 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:30:09 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:35:46 --> mkdir(): No such file or directory
+in APPPATH\Libraries\qrcode\qrspec.php on line 563.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 563, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(563): mkdir('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:37:13 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 570.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 570, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(570): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:04 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:06 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:32 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 575.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 575, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(575): file_put_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:53 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:55 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:55 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:56 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:56 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:56 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:57 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:58 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:58 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:40:58 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\qrcode\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:12 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 575.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 575, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(575): file_put_contents('APPPATH\\Libraries\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:13 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:14 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:14 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:14 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:14 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:15 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:46:15 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\Libraries\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:47:12 --> file_put_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode/../../\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 575.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode/../../\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 575, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(575): file_put_contents('APPPATH\\cache\\frame_1.dat', 'xÚÁÀ E9³u`³"PÅ„CÛç‰—T!0$
+E•É²Q™Ém½úhÛ¾9{kI"› 9Ln)Ap¤åÖ¾Ë>ß^‡Õz³mënÅ–;ü´mßn†ú¦Ë')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:48:44 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode/../..\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode/../..\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:48:46 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode/../..\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode/../..\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:48:47 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode/../..\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode/../..\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 03:49:03 --> file_get_contents(C:\xampp\htdocs\ci4_basic\app\Libraries\qrcode/../..\cache\frame_1.dat): failed to open stream: Permission denied
+in APPPATH\Libraries\qrcode\qrspec.php on line 568.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_basic\\app\\Libraries\\qrcode/../..\\cache\\frame_1.dat): failed to open stream: Permission denied', 'APPPATH\\Libraries\\qrcode\\qrspec.php', 568, [...])
+ 2 APPPATH\Libraries\qrcode\qrspec.php(568): file_get_contents('APPPATH\\cache\\frame_1.dat')
+ 3 APPPATH\Libraries\qrcode\qrencode.php(178): App\Libraries\qrcode\QRspec::newFrame(1)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(240): App\Libraries\qrcode\QRcode->encodeMask(Object(App\Libraries\qrcode\QRinput), -1)
+ 5 APPPATH\Libraries\qrcode\qrencode.php(279): App\Libraries\qrcode\QRcode->encodeInput(Object(App\Libraries\qrcode\QRinput))
+ 6 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString('like_that', 0, 0, 2, true)
+ 7 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode('like_that')
+ 8 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', false)
+ 9 APPPATH\Libraries\qrcode.php(67): App\Libraries\qrcode\QRcode::png('like_that', 'APPPATH\\Libraries\\temp\\test1df79d71d92e5295995c5f63318b56d2.png', 'L', 4, 2)
+10 APPPATH\Controllers\Url.php(132): App\Libraries\QRcode->generate()
+11 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_gen_qrcode()
+12 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+13 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:26:56 --> The route for "/ci4_basic/public/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/ci4_basic/public/add_url')
+ 2 APPPATH\Controllers\Url.php(107): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('1')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:29:43 --> The route for "/ci4_basic/public/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/ci4_basic/public/add_url')
+ 2 APPPATH\Controllers\Url.php(107): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('37')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:30:38 --> The route for "http://localhost/ci4_basic/public/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/ci4_basic/public/add_url')
+ 2 APPPATH\Controllers\Url.php(108): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('37')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:30:58 --> The route for "/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/add_url')
+ 2 APPPATH\Controllers\Url.php(108): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('37')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:31:00 --> The route for "/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/add_url')
+ 2 APPPATH\Controllers\Url.php(108): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('37')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:31:47 --> The route for "/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/add_url')
+ 2 APPPATH\Controllers\Url.php(108): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('44')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:41:14 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(73, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:42:59 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(74, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:43:00 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(75, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:45:48 --> syntax error, unexpected '}', expecting ';' or ','
+in APPPATH\Controllers\Url.php on line 120.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Url.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Url')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Url')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Url')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Url', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:47:09 --> Class 'App\Libraries\qrcode\Exception' not found
+in APPPATH\Libraries\qrcode\qrsplit.php on line 301.
+ 1 APPPATH\Libraries\qrcode\qrencode.php(274): App\Libraries\qrcode\QRsplit::splitStringToQRinput(null, Object(App\Libraries\qrcode\QRinput), 2, true)
+ 2 APPPATH\Libraries\qrcode\qrencode.php(467): App\Libraries\qrcode\QRcode->encodeString(null, 0, 0, 2, true)
+ 3 APPPATH\Libraries\qrcode\qrencode.php(485): App\Libraries\qrcode\QRencode->encode(null)
+ 4 APPPATH\Libraries\qrcode\qrencode.php(286): App\Libraries\qrcode\QRencode->encodePNG(null, 'APPPATH\\Libraries/../..\\public./temp\\test7138a179234e8f9529e83521edcfe217.png', false)
+ 5 APPPATH\Libraries\qrcode.php(71): App\Libraries\qrcode\QRcode::png(null, 'APPPATH\\Libraries/../..\\public./temp\\test7138a179234e8f9529e83521edcfe217.png', 'L', 4, 2)
+ 6 APPPATH\Controllers\Url.php(141): App\Libraries\QRcode->generate()
+ 7 APPPATH\Controllers\Url.php(83): App\Controllers\Url->c_gen_qrcode()
+ 8 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 9 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+10 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:50:18 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(80, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:52:25 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(83, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:56:28 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(84, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:56:31 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(85, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:56:32 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(86, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 20:56:36 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(88): CodeIgniter\Model->update(87, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 21:03:31 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 867.
+ 1 SYSTEMPATH\BaseModel.php(867): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Url.php(90): CodeIgniter\Model->update(92, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 21:58:39 --> The route for "../add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('../add_url')
+ 2 APPPATH\Controllers\Url.php(115): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('99')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 21:58:53 --> The route for "/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/add_url')
+ 2 APPPATH\Controllers\Url.php(115): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('99')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 22:05:19 --> The route for "http://localhost/ci4_basic/public/add_url" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/ci4_basic/public/add_url')
+ 2 APPPATH\Controllers\Url.php(117): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_del_url('100')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 22:43:15 --> Invalid file: url/main_url/?x=.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('url/main_url/?x=.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url/?x=', [], true)
+ 3 APPPATH\Controllers\Url.php(110): view('url/main_url/?x=', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 22:44:12 --> Invalid file: url/main_url/?x=2022-11-17_05-11-12.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('url/main_url/?x=2022-11-17_05-11-12.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url/?x=2022-11-17_05-11-12', [], true)
+ 3 APPPATH\Controllers\Url.php(110): view('url/main_url/?x=2022-11-17_05-11-12', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 22:44:23 --> Invalid file: url/main_url?x=2022-11-17_05-11-23.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('url/main_url?x=2022-11-17_05-11-23.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url?x=2022-11-17_05-11-23', [], true)
+ 3 APPPATH\Controllers\Url.php(110): view('url/main_url?x=2022-11-17_05-11-23', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-16 22:45:56 --> Invalid file: url/main_url/?x=.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('url/main_url/?x=.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url/?x=', [], true)
+ 3 APPPATH\Controllers\Url.php(110): view('url/main_url/?x=', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
