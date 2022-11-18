@@ -43,6 +43,7 @@ go to uncomment extension "intl" in php.ini
 ```ci4```
 
 *crate table url*
+
 *run this sql to create table url.*
 
 *1.*
