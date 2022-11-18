@@ -24,7 +24,7 @@
         color: #fff;
         text-align: left;
         min-width: 760px;
-        background-color: #4a525a;
+        background-color: #98a7b7;
       }
     </style>
     <link href="https://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
