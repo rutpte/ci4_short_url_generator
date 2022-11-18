@@ -36,8 +36,9 @@ This repository holds the distributable version of the framework. It has been bu
 ```ci4```
 
 *crate table url*
-***run this sql to create table url.***
-***1.***
+*run this sql to create table url.*
+
+*1.*
 ```
 CREATE TABLE `url` (
   `id` int(10) NOT NULL,
@@ -47,12 +48,12 @@ CREATE TABLE `url` (
   `num_click` int(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ```
-***2.***
+*2.*
 ```
 ALTER TABLE `url`
 ADD PRIMARY KEY (`id`);
 ```
-***3.***
+*3.*
 ```
 ALTER TABLE `url`
 MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
