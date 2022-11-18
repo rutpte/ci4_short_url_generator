@@ -77,6 +77,9 @@ MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 ```
 http://localhost/ci4_short_url_generator/public/add_url
 ```
+![image](https://user-images.githubusercontent.com/3283729/202762269-42130dda-0368-4db7-866b-8365c180ee8f.png)
+
+![image](https://user-images.githubusercontent.com/3283729/202762343-d53263da-93d5-4781-a083-2f5a741bab57.png)
 
 
 
