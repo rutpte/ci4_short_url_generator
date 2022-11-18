@@ -23,7 +23,7 @@ This repository holds the distributable version of the framework. It has been bu
 #  install server.
 *this giude use Xampp*
 
-* install Xampp.
+* install Xampp.[download here](https://www.apachefriends.org/download.html)
 * go to ```xampp\htdocs```folder.
 * and pull git file.
 
@@ -46,6 +46,13 @@ ALTER TABLE `url`
 MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 ```
+
+# run server.
+**click start**
+
+![image](https://user-images.githubusercontent.com/3283729/202666553-e997adfa-c76b-4ae7-ac4a-66716dccf440.png)
+
+
 
 
 
