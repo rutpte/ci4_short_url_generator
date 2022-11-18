@@ -17,7 +17,8 @@ This repository holds the distributable version of the framework. It has been bu
 ## How to install.
 ***Requirements***
 
-* PHP version 7.4 or higher is required
+* PHP version 7.4 or higher is required, with the following extensions installed:
+*  [intl](http://php.net/manual/en/intl.requirements.php)
 
 
 #  install server.
