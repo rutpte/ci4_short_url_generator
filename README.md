@@ -31,8 +31,9 @@ This repository holds the distributable version of the framework. It has been bu
 # create database.
 
 
+**database name is**
 
-```ci4 is database name```
+```ci4```
 
 *crate table url*
 
