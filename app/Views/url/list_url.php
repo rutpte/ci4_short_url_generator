@@ -88,9 +88,9 @@
                 <p>short url : <a class="link_to"><?= $item['short_url']?></a> </p>
                 <p>amount click : <em><?= $item['num_click']?></em> </p>
                 <p>delete : <a class="del" href=<?=ROOT_PROJ."/del_url/". $item['id']?>>delete data.</a> </p>
-                </br>
+                
                 <img src="<?=ROOT_PROJ.'/'.$item['qrc_path']?>" />
-             
+                </br>
                <p><a class="btn" href="<?=$item['short_url'] ?>">View details &raquo;</a></p> 
               <hr/>
             </div><!--/span-->
