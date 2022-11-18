@@ -19,3 +19,10 @@ This repository holds the distributable version of the framework. It has been bu
 
 PHP version 7.4 or higher is required
 
+## database
+
+dabase use a mysql
+
+
+
+
