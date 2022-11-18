@@ -17,8 +17,8 @@
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
         -webkit-text-size-adjust: none;
-        margin-top: 30;
-        padding: 0;
+        margin-top: 80;
+        padding: 80;
         font-family: Verdana, system-ui, Helvetica, sans-serif;
         line-height: 1.8em;
         color: #fff;
