@@ -48,7 +48,9 @@ MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 ```
 
 # run server.
-![image](https://user-images.githubusercontent.com/3283729/202666377-d32bd8d6-9389-4f78-9d8d-c597228f825d.png)
+**click start**
+![image](https://user-images.githubusercontent.com/3283729/202666553-e997adfa-c76b-4ae7-ac4a-66716dccf440.png)
+
 
 
 
