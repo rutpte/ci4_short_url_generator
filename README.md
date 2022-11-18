@@ -30,9 +30,11 @@ This repository holds the distributable version of the framework. It has been bu
 
 # create database.
 
-*run this sql code to mysql*
+
 
 ```ci4 is database name```
+
+*crate table url*
 
 ```
 CREATE TABLE `url` (
