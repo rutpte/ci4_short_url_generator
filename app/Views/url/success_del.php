@@ -16,6 +16,15 @@
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+        -webkit-text-size-adjust: none;
+        margin-top: 0;
+        padding: 0;
+        font-family: Verdana, system-ui, Helvetica, sans-serif;
+        line-height: 1.8em;
+        color: #fff;
+        text-align: left;
+        min-width: 760px;
+        background-color: #4a525a;
       }
     </style>
     <link href="https://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">

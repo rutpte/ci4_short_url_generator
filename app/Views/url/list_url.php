@@ -19,6 +19,15 @@
       body {
         padding-top: 30px;
         padding-bottom: 40px;
+        -webkit-text-size-adjust: none;
+        margin-top: 0;
+        padding: 0;
+        font-family: Verdana, system-ui, Helvetica, sans-serif;
+        line-height: 1.8em;
+        color: #fff;
+        text-align: left;
+        min-width: 760px;
+        background-color: #4a525a;
       }
 
     </style>
