@@ -45,9 +45,12 @@ CREATE TABLE `url` (
   `qrc_path` varchar(255) DEFAULT NULL,
   `num_click` int(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+```
 -------------------------------------
+```
 ALTER TABLE `url`
 ADD PRIMARY KEY (`id`);
+```
 ------------------------------------- 
 ALTER TABLE `url`
 MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
