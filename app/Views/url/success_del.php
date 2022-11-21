@@ -10,9 +10,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 
     <!-- Le styles -->
-    <link href="https://getbootstrap.com/2.3.2/assets/css/bootstrap.css" rel="stylesheet">
+    <link href=<?=ROOT_PROJ."/assets/css/bootstrap.css"?> rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
@@ -27,7 +28,8 @@
         background-color: #4a525a;
       }
     </style>
-    <link href="https://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    
+    <link href=<?=ROOT_PROJ."/assets/css/bootstrap-responsive.css"?> rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -41,7 +43,7 @@
                     <link rel="apple-touch-icon-precomposed" href="https://getbootstrap.com/2.3.2/assets/ico/apple-touch-icon-57-precomposed.png">
                                    <link rel="shortcut icon" href="https://getbootstrap.com/2.3.2/assets/ico/favicon.png">
 
-
+    <script src=<?=ROOT_PROJ."/assets/js/jquery.js"?>></script>
   </head>
 
   <body>
@@ -83,19 +85,18 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://getbootstrap.com/2.3.2/assets/js/jquery.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-transition.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-alert.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-modal.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-dropdown.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-scrollspy.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-tab.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-tooltip.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-popover.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-button.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-collapse.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-carousel.js"></script>
-    <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap-typeahead.js"></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-transition.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-alert.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-modal.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-dropdown.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-scrollspy.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-tab.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-tooltip.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-popover.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-button.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-collapse.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-carousel.js"?>></script>
+    <script src=<?=ROOT_PROJ."/assets/js/bootstrap-typeahead.js"?>></script>
 
   </body>
 </html>

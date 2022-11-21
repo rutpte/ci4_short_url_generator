@@ -1,0 +1,9 @@
+CRITICAL - 2022-11-20 21:11:32 --> syntax error, unexpected 'rel' (T_STRING), expecting ';' or ','
+in APPPATH\Views\url\main_url.php on line 16.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('url/main_url', [], true)
+ 3 APPPATH\Controllers\Url.php(162): view('url/main_url')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Url->c_add_url()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Url))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
